@@ -1,1 +1,3 @@
-# new-hellow2019
+# maven-project
+
+Simple Maven Project
